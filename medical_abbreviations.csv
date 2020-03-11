@@ -327,6 +327,7 @@ CCl4,carbon tetrachloride
 CCP,cardiac catheterization procedure
 CCPDMA,complete circumferential peripheral and deep margin assessment
 CCR7,C-C chemokine receptor type 7
+CCRCC,clear cell renal cell carcinoma
 CCS grade,Canadian Cardiovascular Society grade
 CD,Crohn's disease
 CD4,cluster of differentiation 4
@@ -636,6 +637,7 @@ FIT,fellow in training
 FLAIR,fluid-attenuated inversion recovery
 FM,fibromyalgia
 FM,fetal monitor
+FMF,Familial Mediterranean Fever
 FMS,fibromyalgia syndrome
 FN,femoral nerve
 FN,false negative
@@ -755,6 +757,8 @@ HEART,"History, EKG, Age, Risk factors, initial Troponin"
 HEENT,"head, eyes, ears, nose, throat"
 HeFH,heterozygous familial hypercholesterolaemia
 HF,heart failure
+HFCC,high-frequency chest clearance
+HFCWO,high-frequency chest wall oscillation
 HFNC,High-Flow Nasal Cannula
 HFpEF,heart failure with preserved ejection fraction
 Hg,hemoglobin
@@ -1271,6 +1275,7 @@ PCR,pharyngeal constriction ratio
 PCSK9,proprotein convertase subtilisin kexin 9
 PCT,procalcitonin
 PCU,progressive care unit
+PD,postural drainage
 PD,Parkinson's disease
 PD,Peritoneal Dialysis
 PD,pneumatic dilation
@@ -1457,6 +1462,7 @@ RUL,right upper lobe
 RUQ,right upper quadrant
 rUTI,recurrent urinary tract infection
 RV,right ventricle
+RVFWS,RV free wall longitudinal systolic strain
 RVR,rapid ventricular response
 S/P,status post
 SAB,spontaneous abortion
@@ -1673,6 +1679,7 @@ UPPP,uvulopalatopharyngoplasty
 URI,upper respiratory infection
 US,ultrasound
 uSAID,undifferentiated Systemic Autoinflammatory Disease
+uSAID,undifferentiated Systemic Autoinflammatory Disease
 USOH,usual state of health
 USPSTF,US Preventive Services Task Force
 UST,ustekinumab
@@ -1701,6 +1708,7 @@ VEGF,vascular endothelial growth factor
 VEO-IBD,Very Early Onset Inflammatory Bowel Disease
 VF,visual field
 VF,ventricular fibrillation
+VHL,von Hippel-Lindau syndrome
 VMAT,volume modulated arc therapy
 VMAT2,vesicular monoamine transporter
 VOC,vasoocclusive crisis
@@ -1713,6 +1721,7 @@ VS,vascular surgery
 VS,vital signs
 VSD,ventricular septal defect
 VSS,vital signs stable
+VT,vest therapy
 VT,ventricular tachycardia
 VTE,venous thromboembolism
 VVC,vulvovaginal candidiasis
