@@ -561,7 +561,6 @@ EGA,estimated gestational age
 EGD,esophagogastroduodenoscopy
 eGFR,Estimated Glomerular Filtration Rate
 EGFR,epidermal growth factor receptor
-EHL,Extensor Hallucis Longus
 EHL,extensor halluces longus
 EIA,External Iliac Artery
 EKG,electrocardiogram
@@ -1653,6 +1652,7 @@ TTS,through-the-scope
 TURBT,Transurethral Resection of Bladder Tumor
 TURP,Transurethral resection of prostate gland
 TVC,true vocal cord
+TVP,transvenous pacemaker
 TVR,Tricuspid Valve Replacement
 TVUS,Transvaginal Ultrasound
 TVV,Tricuspid Valve Valvuloplasty
