@@ -39,6 +39,7 @@ ACD,Anterior Cervical Discectomy
 ACDF,Anterior Cervical Decompression & Fusion
 ACE,Angiotensin Converting Enzyme
 ACE-I,Angiotensin Converting Enzyme Inhibitor
+ACE2,angiotensin-converting enzyme 2
 ACI,Autologous Cartilage Implantation
 ACL,anterior cruciate ligament
 ACLS,advanced cardiac life support
@@ -46,6 +47,7 @@ ACP,American College of Physicians
 ACR,Anterior Column Realignment
 ACS,Abdominal Compartment Syndrome
 ACS,acute coronary syndrome
+ACS,American College of Surgeons
 ACT,Activating Clotting Time
 ACT,assertive community treatment
 ACTH,adrenocorticotropic hormone
@@ -338,7 +340,10 @@ CDAI,Crohn's disease activity index
 CDC,Centers for Disease Control and Prevention
 CDDP,cisplatin
 CDEIS,Crohn’s disease index of severity
+CDK,cyclin-dependent kinase
 CDMR,Cesarean Delivery at Maternal Request
+cDNA,complementary DNA
+cDNA-AFLP,cDNA-amplified restriction fragment–length polymorphism
 CDP,contractile deceleration point
 CDPAS,consumer directed personal assistance services
 CEA,Carotid Endarterectomy
@@ -359,6 +364,8 @@ chEVAR,chimney endovascular aneurysm repair
 CHF,congestive heart failure
 CHG,chlorhexidine-gluconate
 CHI,closed head injury
+CHIKV,chikungunya virus
+China CDC,Chinese Center for Disease Control and Prevention
 CHL,Conductive Hearing Loss
 CHRD,cysteine–histidine rich domain
 CI,Cochlear Implant
@@ -376,6 +383,7 @@ CIWA,Clinical Institute Withdrawal Assessment
 CK,creatine kinase
 CK18,Cytokeratin 18 Fragments
 CKD,chronic kidney disease
+CKI,cyclin-dependent kinase inhibitor
 Cl,chloride
 CLIA,Clinical Laboratory Improvement Amendments
 CLL,chronic lymphocytic leukemia
@@ -416,6 +424,7 @@ CP,chest pain
 CP,cerebral palsy
 CP,cleft palate
 CPAP,continuous positive airway pressure
+CPE,cytopathic effect
 CPG,Clinical Practice Guideline
 CPHSS,Cincinnati Prehospital Stroke Scale
 CPK,creatine phosphokinase
@@ -435,6 +444,7 @@ CRISA,catheterization risk in adult patients
 CRM,cardiac rhythm management
 CRP,C-reactive protein
 CRPS,complex regional pain syndrome
+CRRT,continuous renal replacement therapy
 CRRT,continuous renal replacement therapy
 CRS,chronic rhinosinusitis
 CRSsNP,chronic rhinosinusitis without nasal polyps
@@ -574,6 +584,7 @@ ELF,Enhanced Liver Fibrosis Panel
 ELISA,enzyme-linked immunosorbent assays
 EMDR,eye movement desensitization and reprocessing
 EMG,electromyelogram
+EMR,electronic medical record
 EMS,emergency medical services
 ENoG,Electroneurography
 ENT,"ear, nose, throat/otolaryngology"
@@ -672,6 +683,7 @@ GA,general anesthesia
 GABHS,group A β-hemolytic streptococcal
 GAD,general anxiety disorder
 GAG,glycosaminoglycan
+GAK,Cyclin G-associated kinase
 GAS,Group A Streptococcus
 GAS,Gender Affirmation Surgery
 GB,gallbladder
@@ -686,6 +698,7 @@ GEP,gene expression profiling
 GERD,gastroesophageal reflux disease
 GFR,Glomerular filtration rate
 GGA,Genioglossus Advancement
+GGO,ground-glass opacity
 GGT,gamma-glutamyltransferase
 GH,growth hormone
 GHD,growth hormone deficiency
@@ -749,6 +762,7 @@ HCC,Hepatocellular Carcinoma 
 HCG,Human Chorionic Gonadotropin
 HCMV,human cytomegalovirus
 HCO3,bicarbonate
+HCoV-229E,human coronavirus 229E
 HCPCS,Healthcare Common Procedure Coding System
 Hct,hematocrit
 HCTZ,hydrochlorothiazide
@@ -760,6 +774,7 @@ HD,Hirschsprung's disease
 HD,hospital day
 HDC,histidine decarboxylase
 HDL,high density lipoprotein
+HE,hemagglutinin–acetylesterase
 HEART,"History, EKG, Age, Risk factors, initial Troponin"
 HEENT,"head, eyes, ears, nose, throat"
 HeFH,heterozygous familial hypercholesterolaemia
@@ -936,6 +951,7 @@ IVF,In Vitro Fertilization
 IVIG,intravenous immunoglobulin
 IVUS,intravascular ultrasound
 JAK,janus kinase
+JAK-STAT,"janus kinase, signal transducer and activator of transcription protein"
 JAKi,JAK inhibitor
 JIA,juvenile idiopathic arthritis
 JNA,Juvenile nasopharyngeal angiofibroma
@@ -1072,6 +1088,8 @@ ML,Microlaryngoscopy
 mLAP,mean left atrial pressure
 MLD,manual lymphatic drainage
 MM,multiple myeloma
+MMLV,Moloney murine leukemia virus
+MMLV-RT,Moloney murine leukemia virus reverse transcriptase
 MMSE,mini-mental state examination
 MMTP,Methadone Maintenance Treatment Program
 MN,midnight
@@ -1081,12 +1099,14 @@ MOG,myelin oligodendrocyte glycoprotein
 MOH,medication overuse headache
 MOM,milk of magnesia
 MOSF,multiple organ system failure
+mPCR,multiplex polymerase chain reaction
 MPFL,Medial patellofemoral ligament
 MPH,methylphenidate
 MPJ,Metatarsal Phalangeal Joint
 MPL,Medial Patella Luxation
 MPN,myeloproliferative neoplasm
 MPNST,malignant peripheral nerve sheath tumor
+Mpro,main protease
 MR,mental retardation
 MR,mitral regurgitation
 MR-proADM,mid-regional pro-adrenomedullin
@@ -1099,6 +1119,7 @@ MRCP,mental retardation with cerebral palsy
 MRD,margin to reflex distance
 MRI,magnetic resonance imaging
 MRM,Modified Radical Mastectomy
+mRNA,messenger RNA
 MRSA,methicillin-resistant Staphylococcus aureus
 MRV,magnetic resonance venogram
 MS,mental status
@@ -1134,6 +1155,7 @@ NAD,no active disease
 NAD,no acute distress
 NAFL,non‐alcoholic fatty liver
 NAFLD,non‐alcoholic fatty liver disease
+NAK,numb-associated kinase
 nAMD,neovascular age-related macular degeneration
 NAS,NAFLD Activity Score
 NASH,nonalcoholic steatohepatitis
@@ -1231,6 +1253,7 @@ OM,obtuse marginal branch
 OPTN,Organ Procurement and Transplantation Network
 OPUS,Oral Passage Understanding Scale
 OR,operating room
+ORF,open reading frame
 ORIF,open reduction internal fixation
 OS,left eye
 OS,overall survival
@@ -1317,6 +1340,7 @@ PFT,pulmonary function test
 PGD,preimplantation genetic diagnosis
 PGS,preimplantation genetic screening
 PGT-A,Preimplantation Genetic Testing for Aneuploidy
+PHEIC,Public Health Emergency of International Concern
 PHP,partial hospitalization program
 PHQ,patient health questionnaire
 PHV,percutaneously implanted heart valve
@@ -1358,6 +1382,7 @@ PPS,posterior probability of superiority
 PPV,positive predictive value
 PR,progesterone receptor
 PRBC,packed red blood cells
+PRCoV,porcine respiratory coronavirus
 PRISMA,Preferred Reporting Items for Systematic Reviews and Meta-Analyses
 PRN,as needed
 PROM,premature rupture of membranes
@@ -1407,6 +1432,7 @@ QOL,quality of life
 qPCR,quantitative polymerase chain reaction
 QXH,every X hours
 R/O,rule out
+R0,reproduction number
 RA,rheumatoid arthritis
 RA,right atrium
 RA,room air
@@ -1448,6 +1474,7 @@ RLL,right lower lobe
 RLQ,right lower quadrant
 RML,right middle lobe
 RMS,relapsing multiple sclerosis
+RNA,ribonucleic acid
 RNP,ribonucleoprotein
 ROC,receiver operating characteristic
 ROM,range of motion
@@ -1455,13 +1482,14 @@ ROM,rupture of membranes
 ROS,review of systems
 ROSC,return of spontaneous circulation
 RP,radiation pneumonitis
-RP PCR,respitaroy polymerase chain reaction
+RP PCR,respiratory polymerase chain reaction
 RPE,retinal pigment epithelium
 RPG,Retrograde Pyelogram
 RPLV,right posterolateral ventricular branch
 RR,respiratory rate
 RRR,regular rate and rhythm
 RRT,renal replacement therapy
+rRT-PCR,real-time reverse transcriptase polymerase chain reaction
 RSD,reflex sympathetic dystrophy
 RSV,respiratory syncytial virus
 RT,radiation therapy
@@ -1475,6 +1503,7 @@ RUQ,right upper quadrant
 rUTI,recurrent urinary tract infection
 RV,right ventricle
 RVFWS,RV free wall longitudinal systolic strain
+RVP,respiratory viral panel
 RVR,rapid ventricular response
 S/P,status post
 SAB,spontaneous abortion
@@ -1567,6 +1596,7 @@ SSIS,Social Skills Improvement System
 SSR,showed sinus rhythm
 SSRI,selective serotonin reuptake inhibitor
 STAT,signal transducer and activator of transcription
+STAT,signal transducer and activator of transcription
 STEMI,ST elevation myocardial infarction
 STRN,Soft tissue radionecrosis
 STS,soft tissue sarcoma
@@ -1612,6 +1642,7 @@ TEP,tumor educated platelet
 TFA,transcervical fibroid ablation
 TFCAS,transfemoral carotid artery stenting
 TG,triglycerides
+TGEV,transmissible gastroenteritis virus
 TGI,tracheal gas insufflation
 THA,total hip arthroplasty
 THC,tetrahydrocannabinol
@@ -1655,6 +1686,7 @@ TRALI,transfusion-related acute lung injury
 TRD,tongue retaining device
 TRM,resident memory T
 TRM,tissue-resident memory
+TRS,transcription regulatory sequence
 TRUS,Transrectal Ultrasound
 TSH,thyroid stimulating hormone
 TSS,therapeutic staff support
@@ -1690,6 +1722,7 @@ ULN,upper limits of normal
 UM,uveal melanoma
 UO,urinary output
 UPD,uniparental disomy
+upE,region upstream of the E gene
 UPF,uvulopalatal flap
 UPJ,Ureteropelvic Junction
 UPPP,uvulopalatopharyngoplasty
@@ -1726,6 +1759,7 @@ VEO-IBD,Very Early Onset Inflammatory Bowel Disease
 VF,visual field
 VF,ventricular fibrillation
 VHL,von Hippel-Lindau syndrome
+VIDISCA,Virus-Discovery-cDNA-AFLP
 VMAT,volume modulated arc therapy
 VMAT2,vesicular monoamine transporter
 VOC,vasoocclusive crisis
