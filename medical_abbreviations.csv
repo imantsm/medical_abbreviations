@@ -1,4 +1,5 @@
 Abbreviation/Shorthand,Meaning
+2019-nCoV,2019 Novel Coronavirus
 5-ALA,5-aminolevulinic acid
 5-FU,fluorouracil 5%
 6-MP,mercaptopurine
@@ -84,6 +85,7 @@ AH,abductor hallucis
 AHI,apnea-hypopnea index
 AI,aortic insufficiency
 AI,apnea index
+AIBV,Avian Infectious Bronchitis Virus
 AICD,automatic implantable cardioverter defibrillator
 AIDS,acquired immune deficiency syndrome
 AIED,Autoimmune Inner Ear Disease
@@ -136,6 +138,7 @@ ANOVA,analysis of variance
 ant,anterior
 Ao,aorta
 AOB,Aortic Occlusion Balloon
+AOB,assignment of benefits
 AOCD,Anemia of Chronic Disease
 AOD,atlanto-occipital dislocation
 AODM,adult-onset diabetes mellitus
@@ -332,6 +335,7 @@ CCS grade,Canadian Cardiovascular Society grade
 CD,Crohn's disease
 CD4,cluster of differentiation 4
 CDAI,Crohn's disease activity index
+CDC,Centers for Disease Control and Prevention
 CDDP,cisplatin
 CDEIS,Crohn’s disease index of severity
 CDMR,Cesarean Delivery at Maternal Request
@@ -405,6 +409,7 @@ COME,Chronic Otitis Media With Effusion
 COMT,catechol-O-methyltransferase
 COOG,Collaborative Ocular Oncology Group
 COPD,chronic obstructive pulmonary disease
+COVID-19,Coronavirus disease 2019
 COWS,clinical opiate withdrawal scale
 COX-2,cyclooxygenase 2 inhibitors
 CP,chest pain
@@ -572,6 +577,7 @@ EMG,electromyelogram
 EMS,emergency medical services
 ENoG,Electroneurography
 ENT,"ear, nose, throat/otolaryngology"
+EOB,explanation of benefits
 EoE,eosinophilic esophagitis
 EOG,electrooculogram
 EOL,end of life
@@ -631,6 +637,7 @@ FFPE,formalin-fixed paraffin-embedded
 FHF,fulminant hepatic failure
 FHO,Femoral Head Ostectomy
 FiO2,fractional inspired oxygen concentration
+FIP,Feline Infektiöse Peritonitis
 FISH,fluorescence in situ hybridization
 FIT,fellow in training
 FLAIR,fluid-attenuated inversion recovery
@@ -696,6 +703,7 @@ GnRHa,gonadotropin-releasing hormone agonist
 GOF,gain-of-function
 GPB,glycophorin B
 GPC,gram positive coccus
+GPR,gram positive rods
 GPS,Genomic Prostate Score
 GRS,Gender Reassignment Surgery
 GS,general surgery
@@ -1046,6 +1054,8 @@ MDR,multidrug-resistant
 MDS,myelodysplastic syndrome
 MECC,Minimal Extracorporeal Circulation
 MEP,motor evoked potential
+MERS,Middle East Respiratory Syndrome
+MERS-CoV,Middle East Respiratory Syndrome Coronavirus
 MET,motivational enhancement therapy
 MET,Metabolic Equivalent
 MFC,medial femoral condyle
@@ -1055,6 +1065,7 @@ MG,myasthenia gravis
 MGMT,O[6]-methylguanine-DNA methyltransferase
 MgSO₄,Magnesium sulfate
 MHOP,mental health outpatient services
+MHV,Murine Hepatitis Virus
 MI,myocardial infarction
 MIP,molecular inversion probe
 ML,Microlaryngoscopy
@@ -1136,6 +1147,7 @@ NC,nasal cannula
 NCCAH,non-classical congenital adrenal hyperplasia
 NCCN,National Comprehensive Cancer Network
 NCI,National Cancer Institute
+nCoV,Novel Coronavirus
 NCP,nursing care plan
 NCS,nerve conduction study
 NCT,national clinical trial
@@ -1290,6 +1302,7 @@ PEEP,positive end expiratory pressure
 PEF,peak expiratory flow
 PEFR,peak expiratory flow rate
 PEG,percutaneous endoscopic gastrostomy
+PEMS,Poult Enteritis and Mortality Syndrome
 PEP,positive expiratory pressure
 PERRL,pupils equal round and reactive to light
 PERRLA,"pupils equal, round, and reactive to light and accommodation"
@@ -1471,7 +1484,10 @@ SAE,serious adverse event
 SAEF,Secondary Aortoenteric Fistula
 SALT,Severity of Alopecia Tool
 SAMe,S-adenosylmethionine
+SARI,Severe Acute Respiratory Infections
 SARS,severe acute respiratory syndrome
+SARS-CoV,severe acute respiratory syndrome coronavirus
+SARS-CoV-2,Severe Acute Respiratory Syndrome Coronavirus-2 Virus
 sat,saturation
 SAVR,surgical aortic valve replacement
 SB,small bowel
@@ -1492,6 +1508,7 @@ SD,standard deviation
 SDB,sleep disordered breathing
 SDH,subdural hematoma
 SDS,standard deviation score
+SECD,Swine Enteric Coronavirus Disease
 SEP,somatosensory evoked potential
 SERM,selective-estrogen receptor modulator
 SES-CD,Simple Endoscopic Score for Crohn Disease
