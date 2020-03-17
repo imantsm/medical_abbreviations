@@ -14,6 +14,7 @@ AA&O,"awake, alert, and oriented"
 AAA,Abdominal Aortic Aneurysm
 AAG,autoimmune autonomic ganglionopathy
 AAGSV,anterior accessory great saphenous vein
+AAO,American Academy of Ophthalmology
 AAROM,active assisted range of motion
 AB,abortion
 AB,antibody
@@ -43,6 +44,7 @@ ACE2,angiotensin-converting enzyme 2
 ACI,Autologous Cartilage Implantation
 ACL,anterior cruciate ligament
 ACLS,advanced cardiac life support
+ACOG,American College of Obstetricians and Gynecologists
 ACP,American College of Physicians
 ACR,Anterior Column Realignment
 ACS,Abdominal Compartment Syndrome
@@ -275,6 +277,7 @@ BPHTN,blood pressure hypertension
 BPM,beats per minute
 BPP,biophysical profile
 BR,bed rest
+BRAT,"bananas, rice, apple sauce, and toast (or tea)"
 BRB,bright red blood
 BRBPR,bright red blood per rectum
 BRRB,bright red rectal bleeding
@@ -558,6 +561,7 @@ EBRT,external beam radiation therapy
 EBUS,endobronchial ultrasound
 EBV,epstein barr virus
 ECG,electrocardiogram
+Echo,echocardiogram
 ECMO,extracorporeal membrane oxygenation
 ECS,elective cesarean section
 ECT,electroconvulsive therapy
@@ -604,6 +608,7 @@ ERAS,Early Recovery after Surgery
 ERCP,endoscopic retrograde cholangiopancreatography
 ERP,Exposure with Response Prevention
 ES,epidural steroids
+eSET,Elective Single Embryo Transfer
 ESI,epidural steroid injection
 ESLD,end stage liver disease
 ESR,erythrocyte sedimentation rate
@@ -695,6 +700,7 @@ GC-rich,Guanine/Cytosine-rich
 GCS,Glascow coma scale
 gDNA,genomic DNA
 GEP,gene expression profiling
+GER,gastroesophageal reflux
 GERD,gastroesophageal reflux disease
 GFR,Glomerular filtration rate
 GGA,Genioglossus Advancement
@@ -962,6 +968,7 @@ K,potassium
 KAX,"ketamine, acepromazine, and xylazine"
 KCL,potassium chloride
 KUB,"kidney, ureter, bladder (x-ray)"
+L,left
 L&D,labor and delivery
 LA,left atrium
 LA,leukoaraiosis
@@ -1250,6 +1257,7 @@ OHCA,out-of-hospital cardiac arrest
 OHT,ocular hypertension
 OM,Otitis Media
 OM,obtuse marginal branch
+ONH,optic nerve head
 OPTN,Organ Procurement and Transplantation Network
 OPUS,Oral Passage Understanding Scale
 OR,operating room
@@ -1339,6 +1347,7 @@ PFS,progression-free survival
 PFT,pulmonary function test
 PGD,preimplantation genetic diagnosis
 PGS,preimplantation genetic screening
+PGT,Preimplantation Genetic Testing
 PGT-A,Preimplantation Genetic Testing for Aneuploidy
 PHEIC,Public Health Emergency of International Concern
 PHP,partial hospitalization program
@@ -1431,6 +1440,7 @@ QOD,every other day
 QOL,quality of life
 qPCR,quantitative polymerase chain reaction
 QXH,every X hours
+R,right
 R/O,rule out
 R0,reproduction number
 RA,rheumatoid arthritis
@@ -1475,6 +1485,7 @@ RLQ,right lower quadrant
 RML,right middle lobe
 RMS,relapsing multiple sclerosis
 RNA,ribonucleic acid
+RNFL,retinal nerve fiber layer
 RNP,ribonucleoprotein
 ROC,receiver operating characteristic
 ROM,range of motion
@@ -1485,6 +1496,7 @@ RP,radiation pneumonitis
 RP PCR,respiratory polymerase chain reaction
 RPE,retinal pigment epithelium
 RPG,Retrograde Pyelogram
+RPL,recurrent pregnancy loss
 RPLV,right posterolateral ventricular branch
 RR,respiratory rate
 RRR,regular rate and rhythm
@@ -1767,6 +1779,7 @@ VOGM,Vein of Galen malformation
 VP,Ventriculo-Peritoneal
 VPC,ventricular premature complexes
 VRAS,Virginia Radiosurgery AVM Scale
+VS,Vertiflex Superion
 VS,Vertiflex Superion
 VS,vascular surgery
 VS,vital signs
