@@ -1,5 +1,7 @@
 Abbreviation/Shorthand,Meaning
 2019-nCoV,2019 Novel Coronavirus
+2VD,two vessels disease
+3VD,three vessels diseases
 5-ALA,5-aminolevulinic acid
 5-FU,fluorouracil 5%
 6-MP,mercaptopurine
@@ -261,6 +263,7 @@ BMI,body mass index
 BMP,basic metabolic panel
 BMR,basal metabolic rate
 BMS,bare metal stent
+BMS,bare metal stent
 BMT,bone marrow transplantation
 BNP,brain natriuretic peptide
 BO,bowel obstruction
@@ -337,6 +340,7 @@ CCPDMA,complete circumferential peripheral and deep margin assessment
 CCR7,C-C chemokine receptor type 7
 CCRCC,clear cell renal cell carcinoma
 CCS grade,Canadian Cardiovascular Society grade
+CCTA,coronary computed tomography angiography
 CD,Crohn's disease
 CD4,cluster of differentiation 4
 CDAI,Crohn's disease activity index
@@ -397,6 +401,7 @@ CM,cell membrane
 CM,Chiari malformation
 CMA,chromosomal microarray analysis
 CMAP,compound muscle action potentials
+CMAP,compound muscle action potential
 CMB,cerebral microbleed
 CML,chronic myelogenous leukemia
 CMP,cardiomyopathy
@@ -463,6 +468,7 @@ CTC,circulating tumor cell
 CTG,cardiotocography
 CTO,coronary total occlusion
 CTPA,CT pulmonary angiography
+CTS,carpal tunnel syndrome
 CTV,CT venogram
 CURB-65,"confusion, BUN, respiration rate, BP, Age 65+"
 CV,cardiovascular
@@ -484,6 +490,7 @@ D&C,dilatation & curettage
 DAA,direct-acting antiviral
 DAD,diffuse alveolar damage
 DAO,diamine oxidase
+DAPT,dual antiplatelet therapy
 DASH,"Disabilities of the Arm, Shoulder and Hand"
 DBP,diastolic blood pressure
 DBS,deep brain stimulation
@@ -515,6 +522,7 @@ DJD,degenerative joint disease
 DKA,diabetic ketoacidosis
 DL,Direct Laryngoscopy
 DL,distal latency
+DLCT,dual-layer CT
 DLGNT,diffuse leptomeningeal glioneuronal tumor
 DM,diabetes mellitus
 DMARD,disease-modifying antirheumatic drug
@@ -716,6 +724,7 @@ GLP-1,glucagon-like peptide-1
 GLT,glucose loading test
 Gluc,glucose
 GLUT,glucose transport proteins
+GMFCS,Gross Motor Function Classification System
 GNR,gram negative rod
 GnRH,gonadotropin-releasing hormone
 GnRHa,gonadotropin-releasing hormone agonist
@@ -934,6 +943,7 @@ IRP,Integrated Relaxation Pressure
 IS,insulin sensitivity
 ISF,Insulin Sensitivity Factor
 ISG,interferon-stimulated gene
+ISR,in-stent restenosis
 ISS,idiopathic short stature
 ISS,Interspinous Spacer
 ISSNHL,idiopathic sudden sensorineural hearing loss
@@ -1001,6 +1011,7 @@ LE,lower extremity
 LE,lupus erythematosus
 LECVD,Lower Extremity Chronic Venous Disease
 LELE,Leading Edge to Leading Edge
+LEMG,laryngeal electromyography
 LES,lower esophageal sphincter
 LF,local failure
 LFA-1,lymphocyte function-associated antigen-1
@@ -1148,6 +1159,8 @@ MUA,manipulation under anesthesia
 MuSK,Muscle-Specific Kinase
 MV,mechanical ventilation
 MVA,motor vehicle accident
+MVC,maximal voluntary contraction
+MVD,multi-vessel disease
 MVP,mitral valve prolapse
 MVR,Mitral Valve Replacement
 MVV,Mitral Valve Valvuloplasty
@@ -1189,6 +1202,7 @@ NGT,nasogastric tube
 NHL,non-Hodgkin's lymphoma
 NICM,nonischemic cardiomyopathy
 NICU,neonatal intensive care unit
+NICVD,National Institute of Cardiovascular Diseases
 NIDDM,non-insulin dependent diabetes mellitus
 NIH,National Institutes of Health
 NIHSS,National Institutes of Health stroke scale
@@ -1258,6 +1272,7 @@ OHT,ocular hypertension
 OM,Otitis Media
 OM,obtuse marginal branch
 ONH,optic nerve head
+OPLL,ossification of the posterior longitudinal ligament
 OPTN,Organ Procurement and Transplantation Network
 OPUS,Oral Passage Understanding Scale
 OR,operating room
@@ -1380,6 +1395,7 @@ PO,by mouth/oral
 PO2,partial pressure of oxygen
 POD,postoperative day
 POEM,Per-Oral Endoscopic Myotomy 
+pPCI,primary percutaneous coronary intervention
 PPD,purified protein derivative
 PPE,personal protective equipment
 PPH,Procedure for Prolapsed Hemorrhoids
@@ -1550,6 +1566,7 @@ SDB,sleep disordered breathing
 SDH,subdural hematoma
 SDS,standard deviation score
 SECD,Swine Enteric Coronavirus Disease
+sEMG,surface electromyography
 SEP,somatosensory evoked potential
 SERM,selective-estrogen receptor modulator
 SES-CD,Simple Endoscopic Score for Crohn Disease
@@ -1591,6 +1608,7 @@ SNV,single nucleotide variant
 SOAP,"subjective, objective, assessment, plan"
 SOB,shortness of breath
 SOD,sinus ostial dilation
+SPCCT,spectral photon-counting CT
 SPECT,single photon emission computed tomography
 SpO2,pulse oximetry
 SQ,subcutaneous
@@ -1607,6 +1625,7 @@ SSI,supplemental security income
 SSIS,Social Skills Improvement System
 SSR,showed sinus rhythm
 SSRI,selective serotonin reuptake inhibitor
+ST,stent thrombosis
 STAT,signal transducer and activator of transcription
 STAT,signal transducer and activator of transcription
 STEMI,ST elevation myocardial infarction
@@ -1617,6 +1636,7 @@ STSG,Split Thickness Skin Graft
 SUD,substance use disorder
 SUVmax,Maximum Standard Uptake Value
 SVC,superior vena cava
+SVD,single vessel disease
 SVD,spontaneous vaginal delivery
 SVG,saphenous vein graft
 SVR,sustained virologic response
@@ -1628,6 +1648,7 @@ SWS,Sturge–Weber syndrome
 Sx,symptoms
 T,temperature
 T Bili,total bilirubin
+t-EMG,triggered EMG
 t-MeHa,tele‐methylhistamine
 T&A,tonsillectomy and adenoidectomy
 T1DM,type 1 Diabetes Mellitus
@@ -1732,6 +1753,7 @@ UFE,uterine fibroid embolization
 UGI,upper gastrointestinal
 ULN,upper limits of normal
 UM,uveal melanoma
+UNE,ulnar neuropathy at the elbow
 UO,urinary output
 UPD,uniparental disomy
 upE,region upstream of the E gene
@@ -1750,6 +1772,7 @@ UV,ultraviolet
 V/Q,ventilation/perfusion
 VA,ventricular arrhythmia
 VA,visual acuity
+VA,vertebral artery
 VAC,vacuum-assisted closure
 VAP,ventilator-associated pneumonia
 VAS,Visual Analogue Scale
