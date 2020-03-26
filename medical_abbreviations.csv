@@ -7,6 +7,7 @@ Abbreviation/Shorthand,Meaning
 6-MP,mercaptopurine
 A-aDO2,alveolar arterial O2 difference of each
 A-F,aortofemoral
+A-T,Ataxia-Telangiectasia
 A&O,alert and oriented
 A&W,alive and well
 A2,aortic component of second heart sound
@@ -33,6 +34,7 @@ ABP,arterial blood pressure
 ABPA,allergic bronchopulmonary aspergillosis
 ABx,antibiotic(s)
 AC,acromioclavicular
+AC,Adriamycin + Cytoxan
 AC,assist control
 AC,adrenal cortex
 AC,axiocervical
@@ -93,6 +95,7 @@ AI,aortic insufficiency
 AI,apnea index
 AIBV,Avian Infectious Bronchitis Virus
 AICD,automatic implantable cardioverter defibrillator
+AIDP,Acute Inflammatory Demyelinating Polyneuropathy
 AIDS,acquired immune deficiency syndrome
 AIED,Autoimmune Inner Ear Disease
 AIS,acute ischemic stroke
@@ -202,6 +205,7 @@ ATFL,anterior talofibular ligament
 ATG,anti-thymocyte globulin
 ATI,antibodies to Infliximab
 ATK,above the knee
+ATM,Ataxia-Telangiectasia mutation
 ATN,acute tubular necrosis
 ATN,atubular necrosis
 ATP,adenosine triphosphate
@@ -241,6 +245,7 @@ BCBA,board-certified behavior analyst
 BCC,basal cell carcinoma
 BCG,Bacillus Calmette-Guerin
 BCP,birth control pills
+BCS,breast-conserving surgery
 BD,bile duct
 BD,bronchodilator
 BE,barium enema
@@ -412,6 +417,7 @@ CMT,cervical motion tenderness
 CMV,continuous mandatory ventilation
 CMV,cytomegalovirus
 CN,cranial nerve
+CNA,copy number alteration
 CNS,central nervous system
 CNT,carbon nanotube
 CNV,choroidal neovascularization
@@ -425,6 +431,7 @@ COME,Chronic Otitis Media With Effusion
 COMT,catechol-O-methyltransferase
 COOG,Collaborative Ocular Oncology Group
 COPD,chronic obstructive pulmonary disease
+COS,controlled ovarian stimulation
 COVID-19,Coronavirus disease 2019
 COWS,clinical opiate withdrawal scale
 COX-2,cyclooxygenase 2 inhibitors
@@ -825,6 +832,7 @@ HPA,hypothalamic-pituitary-adrenal
 HPI,history of present illness
 HPS,Hantavirus pulmonary syndrome
 HPV,human papillomavirus
+HR,hormone receptor
 HR,heart rate
 HRM,high-resolution manometry
 HRQL,health-related quality of life
@@ -1271,6 +1279,9 @@ OHCA,out-of-hospital cardiac arrest
 OHT,ocular hypertension
 OM,Otitis Media
 OM,obtuse marginal branch
+OM1,obtuse marginal branch 1
+OM2,obtuse marginal branch 2
+OM3,obtuse marginal branch 3
 ONH,optic nerve head
 OPC,oropharyngeal cancer
 OPLL,ossification of the posterior longitudinal ligament
@@ -1437,6 +1448,7 @@ PTE,pulmonary thromboembolism
 PTEN,phosphatase and tensin homolog
 PTFE,polytetrafluoroethylene
 PTH,parathyroid hormone
+PTS,Parsonage-Turner syndrome
 PTSD,post traumatic stress disorder
 PTT,partial thromboplastin time
 PUD,peptic ulcer disease
