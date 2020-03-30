@@ -171,6 +171,7 @@ AR,Allergic Rhinitis
 AR,aortic regurgitation
 ARA,accessory renal arteries
 ARA,arachidonic acid
+ARAG,autosomal recessive agammaglobulinemia
 ARB,angiotensin II receptor blocker
 ARDS,acute respiratory distress syndrome
 ARF,acute renal failure
@@ -495,6 +496,7 @@ D/C,discharge
 d/c,discontinue
 D&C,dilatation & curettage
 DAA,direct-acting antiviral
+DAC,dose-adjustment coefficient
 DAD,diffuse alveolar damage
 DAO,diamine oxidase
 DAPT,dual antiplatelet therapy
@@ -871,6 +873,7 @@ IAHA,intra-articular hyaluronic acid
 IAP,intra-abdominal pressure
 IBD,identity by descent
 IBD,inflammatory bowel disease
+IBM,inclusion body myositis
 IBS,irritable bowel syndrome
 IBS-C,constipation-predominant irritable bowel syndrome
 IBS-D,Irritable Bowel Syndrome with Diarrhea
@@ -886,7 +889,7 @@ ICR,insulin-to-carbohydrate ratio
 ICS,inhaled corticosteroids
 ICSI,intracytoplasmic sperm injection
 ICU,intensive care unit
-ID,infectious diseases
+ID,infectious disease(s)
 IDDM,insulin-dependent diabetes mellitus
 IDE,Investigational Device Exemption
 IDP,intrinsically disordered protein
@@ -898,12 +901,14 @@ IFITM,interferon-induced transmembrane
 IFN,interferon
 IFU,Instructions For Use
 IFX,infliximab
-IG,immunoglobulin
+Ig,immunoglobulin
 IgA,Immunoglobulin A
+IgD,immunoglobulin D
 IgE,immunoglobulin E
 IGF-1,insulin-like growth factor 1
 IGFBP3,insulin-like growth factor binding protein 3
 IgG,immunoglobulin G
+IgM,immunoglobulin M
 IGR-SRS,image-guided robotic stereotactic radiosurgery 
 IGR-SRS,image-guided robotic stereotactic radiosurgery
 IGRA,interferon-gamma release assay
@@ -953,6 +958,7 @@ IRP,Integrated Relaxation Pressure
 IS,insulin sensitivity
 ISF,Insulin Sensitivity Factor
 ISG,interferon-stimulated gene
+ISIB,intrasphincteric injection of Botox
 ISR,in-stent restenosis
 ISS,idiopathic short stature
 ISS,Interspinous Spacer
@@ -1118,6 +1124,7 @@ MLD,manual lymphatic drainage
 MM,multiple myeloma
 MMLV,Moloney murine leukemia virus
 MMLV-RT,Moloney murine leukemia virus reverse transcriptase
+MMN,multi-focal motor neuropathy
 MMSE,mini-mental state examination
 MMTP,Methadone Maintenance Treatment Program
 MN,midnight
@@ -1285,6 +1292,7 @@ OM1,obtuse marginal branch 1
 OM2,obtuse marginal branch 2
 OM3,obtuse marginal branch 3
 ONH,optic nerve head
+ONLS,Overall Neuropathy Limitation Scale
 OPC,oropharyngeal cancer
 OPLL,ossification of the posterior longitudinal ligament
 OPTN,Organ Procurement and Transplantation Network
@@ -1387,8 +1395,11 @@ Pi,inorganic phosphate
 PI,pneumatosis intestinalis
 PICC,peripherally inserted central catheter
 PICU,pediatric intensive care unit
+PID,primary immunodeficiency
 PID,pelvic inflammatory disease
+PIDD,primary immunodeficiency disease
 PIVENS,Pioglitazone versus Vitamin E versus Placebo for the Treatment of Non-diabetic patients with Nonalcoholic steatohepatitis
+PK,pharmacokinetic
 PKR,Partial Knee Replacement
 PKU,phenylketonuria
 PLEX,plasma exchange
@@ -1454,6 +1465,7 @@ PTS,Parsonage-Turner syndrome
 PTSD,post traumatic stress disorder
 PTT,partial thromboplastin time
 PUD,peptic ulcer disease
+PUP,previously untreated patient
 PUVA,psoralen and ultraviolet A
 PVC,premature ventricular contraction
 PVD,peripheral vascular disease
@@ -1469,7 +1481,7 @@ QHS,every night/nightly
 QID,four times per day
 QN,every night/nightly
 QOD,every other day
-QOL,quality of life
+QoL,quality of life
 qPCR,quantitative polymerase chain reaction
 QXH,every X hours
 R,right
@@ -1576,6 +1588,7 @@ SCC,squamous cell carcinoma
 SCD,sudden cardiac death
 SCEP,spinal cord evoked potentials
 SCI,spinal cord injury
+SCIg,subcutaneous immunoglobulin
 SCS,spinal cord stimulator
 SD,standard deviation
 SDB,sleep disordered breathing
@@ -1852,6 +1865,7 @@ WPW,Wolff-Parkinson-White
 Wt,weight
 XDR,extensively drug-resistant
 XDR-TB,extensively drug-resistant tuberculosis
+XLA,X-linked agammaglobulinaemia
 XLT,extended length tracheostomy tubes
 XRT,radiotherapy
 YBOCS,Yale Brown Obsessive Compulsive Scale
