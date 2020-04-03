@@ -68,6 +68,7 @@ ADH,antidiuretic hormone
 ADHD,attention deficit hyperactivity disorder
 ADHF,acute diastolic heart failure
 ADL,activities of daily living
+ADOS-2,"Autism Diagnostic Observation Schedule, Second Edition"
 ADP,adenosine diphosphate
 ADR,adverse drug reaction
 ADR,Artificial Disc Replacement
@@ -447,6 +448,7 @@ CPK,creatine phosphokinase
 CPM,continuous passive motion
 CPNB,continuous peripheral nerve block
 CPP,central precocious puberty
+CPP,chronic pelvic pain
 CPR,cardiopulmonary resuscitation
 CPS,child protective services
 CPT,Current Procedural Terminology
@@ -510,6 +512,7 @@ DCM,dilated cardiomyopathy
 DDD,degenerative disc disease
 DDI,drug to drug interaction
 DDX,differential diagnosis
+DE,donor egg
 DEB,diepoxybutane
 DED,dry eye disease
 DES,drug-eluting stent
@@ -624,6 +627,7 @@ ER,estrogen receptor
 ERAS,Early Recovery after Surgery
 ERCP,endoscopic retrograde cholangiopancreatography
 ERP,Exposure with Response Prevention
+ERV,endogenous retrovirus
 ES,epidural steroids
 eSET,Elective Single Embryo Transfer
 ESI,epidural steroid injection
@@ -652,6 +656,7 @@ EVH,Endoscopic Vein Harvest
 EVLA,endovenous laser ablation
 F/U,follow up
 FABER,"Flexion, Abduction and External Rotation"
+FAD,flavin adenine dinucleotide
 FAI,Femoral-Acetabular Impingement
 FAP,familial adenomatous polyposis
 FB,foreign body
@@ -677,6 +682,7 @@ FLAIR,fluid-attenuated inversion recovery
 FM,fibromyalgia
 FM,fetal monitor
 FMF,Familial Mediterranean Fever
+FMN,flavin mononucleotide
 FMS,fibromyalgia syndrome
 FN,femoral nerve
 FN,false negative
@@ -952,6 +958,7 @@ IPJ,Intra‐Phalangeal Joint
 IPSET-Thrombosis,International Prognostic Score of Thrombosis for ET
 IR,internal rotation
 IR,interventional radiology
+IR,implantation rate
 IRB,institutional review board
 IRMA,immunoradiometric assay
 IRP,Integrated Relaxation Pressure
@@ -1103,7 +1110,9 @@ MDI,metered dose inhaler
 MDR,multidrug-resistant
 MDS,myelodysplastic syndrome
 MECC,Minimal Extracorporeal Circulation
+MELAS,"mitochondrial encephalopathy, lactic acidosis, and stroke-like episodes"
 MEP,motor evoked potential
+MERRF,myoclonic epilepsy with ragged red fibers
 MERS,Middle East Respiratory Syndrome
 MERS-CoV,Middle East Respiratory Syndrome Coronavirus
 MET,motivational enhancement therapy
@@ -1563,6 +1572,7 @@ RVP,respiratory viral panel
 RVR,rapid ventricular response
 S/P,status post
 SAB,spontaneous abortion
+SABR,spontaneous abortion rate
 SACH,"solid ankle, cushioned heel"
 SAD,seasonal affective disorder
 SAE,serious adverse event
