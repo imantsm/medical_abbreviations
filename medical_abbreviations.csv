@@ -154,6 +154,7 @@ AOD,atlanto-occipital dislocation
 AODM,adult-onset diabetes mellitus
 AOM,Acute Otitis Media
 AOT,Assisted Outpatient Treatment
+AP,abdomen/pelvis
 AP,attending physician
 AP,anteroposterior
 APAAP,alkaline phosphatase monoclonal anti-alkaline phosphatase
@@ -214,6 +215,7 @@ ATP,adenosine triphosphate
 ATR,achilles tendon rupture
 AU,alopecia universalis
 AUA,American Urological Association
+AUC,area under the curve
 AUI,Aorto-Uni-Iliac
 AV,arteriovenous
 AV,atrioventricular
@@ -427,6 +429,7 @@ CNV,copy number variant
 CO,carbon monoxide
 CO,cardiac output
 CO2,carbon dioxide
+COC,certificate of coverage
 COLD,chronic obstructive lung disease
 COM,Chronic Otitis Media
 COME,Chronic Otitis Media With Effusion
@@ -505,6 +508,7 @@ DAPT,dual antiplatelet therapy
 DASH,"Disabilities of the Arm, Shoulder and Hand"
 DBP,diastolic blood pressure
 DBS,deep brain stimulation
+DBT,dialectical behavior therapy
 DCB,drug-coated balloon
 DCI,distal contractile integral
 DCIS,ductal carcinoma in situ
@@ -602,6 +606,7 @@ eGFR,Estimated Glomerular Filtration Rate
 EGFR,epidermal growth factor receptor
 EHL,extensor halluces longus
 EIA,External Iliac Artery
+EIA,enzyme immunoassay
 EKG,electrocardiogram
 ELF,endoluminal fundoplication
 ELF,Enhanced Liver Fibrosis Panel
@@ -672,6 +677,7 @@ FEV1,forced expiratory volume 1 second
 fEVAR,fenestrated endovascular aneurysm repair
 FFDM,freedom from widespread distant metastasis
 FFPE,formalin-fixed paraffin-embedded 
+FFR,filtering facepiece respirator
 FHF,fulminant hepatic failure
 FHO,Femoral Head Ostectomy
 FiO2,fractional inspired oxygen concentration
@@ -691,6 +697,7 @@ FNAB,fine needle aspiration biopsy
 FOB,father of baby
 FOBT,fecal occult blood testing
 FP,false positive
+fPSA,free prostate specific antigen
 FRAX,fracture risk assessment
 FRC,functional residual capacity
 FSG,finger stick glucose
@@ -826,6 +833,7 @@ HIPAA,Health Insurance Portability and Accountability Act
 HIS,histidine
 HIV,human immunodeficiency virus
 HK,Horseshoe Kidney
+hK2,human kallikrein 2
 HLA-B27,human leukocyte antigen B27
 HLD,Handicapping Labio-Lingual Deviation
 HLP,hyperlipidemia
@@ -854,6 +862,7 @@ HS-CRP,high sensitivity C-reactive protein
 HSP,Henoch-Schönlein purpura
 HSP,hereditary spastic paraplegia
 HSPG,Heparan Sulfate Proteoglycan
+HSROC,hierarchical summary receiver operating characteristic
 HSV,herpes simplex virus
 HTC,humidified trach collar
 HTG,hypertriglyceridemia
@@ -924,6 +933,8 @@ IH,Inguinal Hernia
 IHF,intrahepatic fat
 IHSS,Idiopathic Hypersomnia Severity Scale
 IIA,Internal Iliac Artery
+IIH,idiopathic intracranial hypertension
+IKDC,International Knee Documentation Committee
 IL-13,Interleukin 13
 IL-17,Interleukin-17
 IL-4,Interleukin 4
@@ -955,6 +966,7 @@ IPA,isopropyl alcohol
 IPF,idiopathic pulmonary fibrosis
 IPG,implanted pulse generator
 IPJ,Intra‐Phalangeal Joint
+iPSA,intact prostate specific antigen
 IPSET-Thrombosis,International Prognostic Score of Thrombosis for ET
 IR,internal rotation
 IR,interventional radiology
@@ -1025,6 +1037,7 @@ LCSW,licensed clinical social worker
 LCX,left circumflex (coronary artery)
 LD,lumbar drain
 LDCT,low-dose computed tomography
+LDH,lumbar disc herniation
 LDH,lactic acid dehydrogenase
 LDL,low density lipoprotein
 LDLR,low-density lipoprotein receptor
@@ -1215,10 +1228,12 @@ NC,nasal cannula
 NCCAH,non-classical congenital adrenal hyperplasia
 NCCN,National Comprehensive Cancer Network
 NCI,National Cancer Institute
+NCI,National Cancer Institute
 nCoV,Novel Coronavirus
 NCP,nursing care plan
 NCS,nerve conduction study
 NCT,national clinical trial
+NCV,Nerve Conduction Velocity
 NEB,nebulizer
 NED,no evidence of disease
 NF,Nissen fundoplication
@@ -1326,6 +1341,7 @@ OVB,oral viscous budesonide
 OW,overweight
 P,pulse
 P&A,percussion & auscultation
+PA,periapical
 PAC,premature atrial complexes
 PACU,post anesthesia care unit
 PAD,peripheral arterial disease
@@ -1349,6 +1365,7 @@ PBT,proton beam therapy
 PCA,patient controlled analgesia
 PCA,personal care aide
 PCA,Posterior Carotid Artery
+PCa,prostate cancer
 PCCM,Pediatric Critical Care Medicine
 PCI,percutaneous coronary intervention
 PCKD,polycystic kidney disease
@@ -1370,6 +1387,7 @@ PD,Peritoneal Dialysis
 PD,pneumatic dilation
 PD,progressive disease
 PDE4,phosphodiesterase 4
+PDN,private duty nursing
 PDT,Photodynamic Therapy
 PE,physical examination
 PE,pulmonary embolism
@@ -1397,6 +1415,8 @@ PGS,preimplantation genetic screening
 PGT,Preimplantation Genetic Testing
 PGT-A,Preimplantation Genetic Testing for Aneuploidy
 PHEIC,Public Health Emergency of International Concern
+PHI,Prostate Health Index
+PHMM,posterior horn of the medial meniscus
 PHP,partial hospitalization program
 PHQ,patient health questionnaire
 PHV,percutaneously implanted heart valve
@@ -1551,6 +1571,7 @@ RPE,retinal pigment epithelium
 RPG,Retrograde Pyelogram
 RPL,recurrent pregnancy loss
 RPLV,right posterolateral ventricular branch
+RPR,rapid plasma regain
 RR,respiratory rate
 RRR,regular rate and rhythm
 RRT,renal replacement therapy
@@ -1754,6 +1775,7 @@ TPE,therapeutic plasma exchange
 TPN,Total Parenteral Nutrition
 TPO,thrombopoietin
 TPR,"temperature, pulse, respiration"
+tPSA,total prostate specific antigen
 TRALI,transfusion-related acute lung injury
 TRD,tongue retaining device
 TRM,resident memory T
@@ -1766,6 +1788,7 @@ TSS-NS,therapeutic staff support non-school
 TSS-S,therapeutic staff support in school
 tSSS,transformed Symptom Severity Score
 TTE,Transthoracic Echocardiogram
+TTF,tumor treating fields
 TTP,tender to palpitation
 TTP,Thrombotic Thrombocytopenic Purpura
 TTP,tissue tolerable plasmas
@@ -1846,6 +1869,7 @@ VS,Vertiflex Superion
 VS,vascular surgery
 VS,vital signs
 VSD,ventricular septal defect
+VSS,Venous Sinus Stenting
 VSS,vital signs stable
 VT,vest therapy
 VT,ventricular tachycardia
