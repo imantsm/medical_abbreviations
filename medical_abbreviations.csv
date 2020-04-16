@@ -324,6 +324,7 @@ CABG,coronary artery bypass graft
 CaCO3,calcium carbonate
 CAD,coronary artery disease
 CAD-3,three-vessel coronary artery disease
+CAG,coronary angiography
 CAH,chronic active hepatitis
 cAMP,cyclic adenosine monophosphate
 CAP,community acquired pneumonia
@@ -367,6 +368,7 @@ CED,Cervical Endoscopic Discectomy
 CED,Coverage with Evidence Development
 CF,cystic fibrosis
 CFA,Common Femoral Artery
+CFC,cardio-facio-cutaneous syndrome
 cfDNA,cell-free DNA
 CFTR,cystic fibrosis transmembrane conductance regulator
 CFV,contractile front velocity
@@ -408,6 +410,7 @@ CM,cardiomegaly
 CM,cardiomyopathy
 CM,cell membrane
 CM,Chiari malformation
+CM-AVM,capillary malformation–ateriovenous malformation syndrome
 CMA,chromosomal microarray analysis
 CMAP,compound muscle action potentials
 CMAP,compound muscle action potential
@@ -459,6 +462,7 @@ CPT,chest physiotherapy
 CR,clinical response
 CR,complete response
 Cr,Creatinine
+CRBBB,complete right bundle branch block
 CrCl,Creatinine Clearance
 CRF,chronic renal failure
 CRISA,catheterization risk in adult patients
@@ -471,6 +475,7 @@ CRS,chronic rhinosinusitis
 CRSsNP,chronic rhinosinusitis without nasal polyps
 CRSwNP,chronic rhinosinusitis with nasal polyps
 CRT,cardiac resynchronization therapy
+CS,Costello syndrome
 CSF,cerebrospinal fluid
 cSNP,coding single-nucleotide polymorphism
 CSS,cancer-specific survival
@@ -596,6 +601,7 @@ EDL,Extensor Digitorum Longus
 EDS,excessive daytime sleepiness
 EDS,Eye Dryness Score
 EEG,electroencephalogram
+EES,everolimus eluting stent
 EF,ejection fraction
 EFL,expiratory flow limitation
 EFLI,expiratory flow limitation index
@@ -729,6 +735,7 @@ GC,Gonorrhea
 GC-rich,Guanine/Cytosine-rich
 GCS,Glascow coma scale
 gDNA,genomic DNA
+GEF,guanosine nucleotide exchange factor
 GEP,gene expression profiling
 GER,gastroesophageal reflux
 GERD,gastroesophageal reflux disease
@@ -755,6 +762,7 @@ GPB,glycophorin B
 GPC,gram positive coccus
 GPR,gram positive rods
 GPS,Genomic Prostate Score
+GRB2,growth factor receptor-bound protein 2
 GRS,Gender Reassignment Surgery
 GS,general surgery
 GS,gram stain
@@ -786,6 +794,7 @@ HAP,hospital-acquired pneumonia
 HAPE,high altitude pulmonary edema
 HAT,"hypoxanthine, aminopterin, thymidine"
 HAV,hepatitis A virus
+HAVB,high-grade atrioventricular block
 Hb,hemoglobin
 HBeAg,hepatitis B e-antigen
 HBI,HARVEY-BRADSHAW INDEX
@@ -797,6 +806,7 @@ HC,hydroxycarbamide
 HCAP,healthcare-associated pneumonia
 HCC,Hepatocellular Carcinoma 
 HCG,Human Chorionic Gonadotropin
+HCM,hypertrophic cardiomyopathy
 HCMV,human cytomegalovirus
 HCO3,bicarbonate
 HCoV-229E,human coronavirus 229E
@@ -812,6 +822,7 @@ HD,hospital day
 HDC,histidine decarboxylase
 HDFN,hemolytic disease of the fetus and newborn
 HDL,high density lipoprotein
+HDLP,HDL particle concentration
 HDN,hemolytic disease of the newborn
 HE,hemagglutinin–acetylesterase
 HEART,"History, EKG, Age, Risk factors, initial Troponin"
@@ -939,6 +950,7 @@ IL-13,Interleukin 13
 IL-17,Interleukin-17
 IL-4,Interleukin 4
 IL-4Ra,interleukin 4 receptor
+IL-5,Interleukin 5
 ILD,interstitial lung disease
 ILR,implantable loop recorder
 IM,intramuscular
@@ -952,6 +964,7 @@ IMS,Intra‐Metatarsal Space
 IN,intranasal
 indel,insertion-deletion
 InflAAA,Inflammatory Abdominal Aortic Aneurysm
+INH,Isoniazid
 iNKT,invariant natural killer T
 INPH,idiopathic normal pressure hydrocephalus
 INR,international normalized ratio
@@ -1066,6 +1079,7 @@ LM,left main coronary artery
 LM,laparoscopic myomectomy
 LMCA,left main coronary artery stenosis
 LMP,last menstrual period
+LMT,left main trunk
 LMWH,Low Molecular Weight Heparin
 LN,lymph node
 LND,lymph node dissection
@@ -1237,6 +1251,7 @@ NCV,Nerve Conduction Velocity
 NEB,nebulizer
 NED,no evidence of disease
 NF,Nissen fundoplication
+NF1,neurofibromatosis type 1
 NG,nasogastric
 NGS,next-generation sequencing
 NGT,nasogastric tube
@@ -1271,9 +1286,11 @@ NPV,negative predictive value
 NPWT,negative pressure wound therapy
 NRB,non-rebreather mask
 NRI,net reclassification improvement
+NS,Noonan Syndrome
 NS,normal saline
 NSAID,nonsteroidal antiinflammatory drug(s)
 NSCLC,non-small cell lung cancer
+NSML,Noonan syndrome with multiple lentigines
 NSQIP,National Surgical Quality Improvement Program
 NSR,normal sinus rhythm
 NST,Non-Stress Test
@@ -1358,6 +1375,7 @@ PAWP,pulmonary arterial wedge pressure
 PAWS,post-acute-withdrawal syndrome
 PBC,primary biliary cholangitis
 pBNP,NT-Pro B-Type Natriuretic Peptide
+PBP,penicillin-binding protein
 PBRT,proton beam radiation therapy
 PBS,pencil-beam scanning
 PBT,perioperative blood transfusion
@@ -1461,6 +1479,7 @@ PPROM,preterm premature rupture of membranes
 PPS,posterior probability of superiority
 PPV,positive predictive value
 PR,progesterone receptor
+PR,platelet reactivity
 PRBC,packed red blood cells
 PRCoV,porcine respiratory coronavirus
 PRISMA,Preferred Reporting Items for Systematic Reviews and Meta-Analyses
@@ -1490,6 +1509,7 @@ PTE,pulmonary thromboembolism
 PTEN,phosphatase and tensin homolog
 PTFE,polytetrafluoroethylene
 PTH,parathyroid hormone
+PTP,protein tyrosine phosphatase
 PTS,Parsonage-Turner syndrome
 PTSD,post traumatic stress disorder
 PTT,partial thromboplastin time
@@ -1523,6 +1543,7 @@ RA,rotational atherectomy
 rAAA,Ruptured Abdominal Aortic Aneurysm
 RAC,recovery audit contractor
 RAS,resistance-associated substitution
+RasGEF,Ras guanine nucleotide exchange factor
 RBAS,radiosurgery-based AVM score
 RBBB,right bundle branch block
 RBC,red blood cells
@@ -1572,6 +1593,7 @@ RPG,Retrograde Pyelogram
 RPL,recurrent pregnancy loss
 RPLV,right posterolateral ventricular branch
 RPR,rapid plasma regain
+RPT,Rifapentine
 RR,respiratory rate
 RRR,regular rate and rhythm
 RRT,renal replacement therapy
@@ -1581,6 +1603,7 @@ RSV,respiratory syncytial virus
 RT,radiation therapy
 RT,respiration therapy
 RT-PCR,reverse transcription polymerase chain reaction
+RTK,receptor tyrosine kinase
 rTMS,repetitive transcranial magnetic stimulation
 RTOG,Radiation Therapy Oncology Group
 RUE,right upper extremity
@@ -1668,6 +1691,7 @@ SNV,single nucleotide variant
 SOAP,"subjective, objective, assessment, plan"
 SOB,shortness of breath
 SOD,sinus ostial dilation
+SOS,Son of Sevenless
 SPCCT,spectral photon-counting CT
 SPECT,single photon emission computed tomography
 SpO2,pulse oximetry
@@ -1734,6 +1758,7 @@ TENS,transcutaneous electrical nerve stimulation
 TEP,tumor educated platelet
 TFA,transcervical fibroid ablation
 TFCAS,transfemoral carotid artery stenting
+TFI,transfemoral intervention
 TG,triglycerides
 TGEV,transmissible gastroenteritis virus
 TGI,tracheal gas insufflation
@@ -1778,6 +1803,7 @@ TPR,"temperature, pulse, respiration"
 tPSA,total prostate specific antigen
 TRALI,transfusion-related acute lung injury
 TRD,tongue retaining device
+TRI,trans-radial intervention
 TRM,resident memory T
 TRM,tissue-resident memory
 TRS,transcription regulatory sequence
@@ -1796,6 +1822,7 @@ TTS,through-the-scope
 TURBT,Transurethral Resection of Bladder Tumor
 TURP,Transurethral resection of prostate gland
 TVC,true vocal cord
+TVF,target vessel failure
 TVP,transvenous pacemaker
 TVR,Tricuspid Valve Replacement
 TVUS,Transvaginal Ultrasound
