@@ -55,6 +55,7 @@ ACR,Anterior Column Realignment
 ACS,Abdominal Compartment Syndrome
 ACS,acute coronary syndrome
 ACS,American College of Surgeons
+ACS,abnormally contracting segments
 ACT,Activating Clotting Time
 ACT,assertive community treatment
 ACTH,adrenocorticotropic hormone
@@ -370,6 +371,7 @@ cDNA,complementary DNA
 cDNA-AFLP,cDNA-amplified restriction fragment–length polymorphism
 CDP,contractile deceleration point
 CDPAS,consumer directed personal assistance services
+ce-CMR,contrast-enhanced cardiac magnetic resonance
 CEA,Carotid Endarterectomy
 CED,Cervical Endoscopic Discectomy
 CED,Coverage with Evidence Development
@@ -426,6 +428,7 @@ CML,chronic myelogenous leukemia
 CMP,cardiomyopathy
 CMP,comprehensive metabolic panel
 CMPA,cow’s milk protein allergy
+CMR,cardiac magnetic resonance
 CMS,Centers for Medicare & Medicaid Services
 CMT,cervical motion tenderness
 CMV,continuous mandatory ventilation
@@ -609,6 +612,7 @@ ED,erectile dysfunction
 EDL,Extensor Digitorum Longus
 EDS,excessive daytime sleepiness
 EDS,Eye Dryness Score
+EDV,end diastolic volume
 EEG,electroencephalogram
 EES,everolimus eluting stent
 EF,ejection fraction
@@ -657,6 +661,7 @@ ESRD,end-stage renal disease
 ESS,Epworth Sleepiness Scale
 ESS,endoscopic sinus surgery
 EST,electroshock therapy
+ESV,end systolic volume
 ESWL,Extracorporeal Shock Wave Lithotripsy
 ESWT,Extracorporeal Shock Wave Therapy
 ET,essential tremor
@@ -894,6 +899,7 @@ HUD,Humanitarian Use Device
 HUS,hemolytic-uremic syndrome
 Hx,history
 HZV,Herpes Zoster Virus
+i-TIMI,initial-thrombolysis in myocardial infarction
 I&D,incision and drainage
 I&D,irrigation and debridement
 I&O,intake and output
@@ -999,6 +1005,7 @@ IRB,institutional review board
 IRMA,immunoradiometric assay
 IRP,Integrated Relaxation Pressure
 IS,insulin sensitivity
+IS,infarct size
 ISF,Insulin Sensitivity Factor
 ISG,interferon-stimulated gene
 ISIB,intrasphincteric injection of Botox
@@ -1006,6 +1013,7 @@ ISR,in-stent restenosis
 ISS,idiopathic short stature
 ISS,Interspinous Spacer
 ISSNHL,idiopathic sudden sensorineural hearing loss
+IT,time from symptom onset to coronary intervention
 ITI,Inner to Inner
 ITP,immune thrombocytopenic purpura
 ITR,Inferior Turbinate Reduction
@@ -1226,6 +1234,7 @@ MV,mechanical ventilation
 MVA,motor vehicle accident
 MVC,maximal voluntary contraction
 MVD,multi-vessel disease
+MVO,microvascular obstruction
 MVP,mitral valve prolapse
 MVR,Mitral Valve Replacement
 MVV,Mitral Valve Valvuloplasty
