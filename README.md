@@ -7,7 +7,7 @@ This is a personal, good-faith effort on my part, though there may be inaccuraci
 <br>
 The two main files here are as follows:<br>
 <br>
-#-M, medical abbreviations.csv - Medical abbreviations that start with numbers through abbreviations that that with M.<br>
+#-M, medical abbreviations.csv - Medical abbreviations that start with numbers through abbreviations that start with M.<br><br>
 N-Z, medical abbreviations.csv - Medical abbreviations that start with N through abbreviations that start with Z.<br>
 <br>
 <br>
