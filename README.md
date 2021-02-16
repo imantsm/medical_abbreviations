@@ -5,7 +5,7 @@ This is a glossary/list of medical abbreviations and their associated meanings
 This is a personal, good-faith effort on my part, though there may be inaccuracies. The medical world is its own language, and additional terms are being added all the time. The sources for the terminology are myriad.
 <br>
 <br>
-The two main files here are as follows:<br>
+The main files, which can be found in the csv directory, are as follows:<br>
 <br>
 #-B, medical abbreviations.csv - Medical abbreviations that start with numbers through abbreviations that start with B.<br><br>
 C-D, medical abbreviations.csv - Medical abbreviations that start with C through abbreviations that start with D.<br><br>
