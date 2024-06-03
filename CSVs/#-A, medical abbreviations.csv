@@ -1,5 +1,6 @@
 Abbreviation/Shorthand,Meaning,More Info
 17p,short arm of chromosome 17,
+22q11,band 11 of long arm of chromosome 22,
 2D-RT,two-dimensional radiotherapy,
 2HG,2-hydroxyglutarate,
 2VD,two vessels disease,
@@ -148,6 +149,8 @@ ADA,adenosine deaminase,
 ADA,adalimumab,
 ADD,attention deficit disorder,
 ADE,adverse device-related event,
+ADEM,acute disseminated encephalomyelitis,
+ADEM-MOGAD,acute disseminated encephalomyelitis-myelin oligodendrocyte glycoprotein antibody-associated disease,
 ADH,antidiuretic hormone,
 ADHD,attention deficit hyperactivity disorder,
 ADHF,acute diastolic heart failure,
@@ -240,6 +243,7 @@ AKT,protein kinase B,
 ALA,5-aminolevulinic acid,
 ALA-PDT,5-aminolevulinic acid-mediated photodynamic therapy,
 Alb,albumin,
+ALC2A10,Solute Carrier Family 2 Member 10,
 ALCx,left circumflex coronary artery,
 ALD,Assistive Listening Device,
 ALDH,aldehyde dehydrogenase,
@@ -319,6 +323,7 @@ APD,Automated Peritoneal Dialysis,
 APD,Auditory Processing Disorder,
 APHE,arterial phase hyperenhancement,
 APL,abductor pollicis longus,
+APOA1,apolipoprotein A‐I,
 APR,Abdominal Perineal Resection,
 APRI,aspartate aminotransferase to platelet ratio index,
 APROM,active/passing range of motion,
@@ -423,8 +428,16 @@ ATR,achilles tendon rupture,
 AU,alopecia universalis,
 AUA,American Urological Association,
 AUASS,American Urological Association Symptom Score,
-AUB,abnormal uterine bleeding,
-AUB-L,abnormal uterine bleeding - leiomyoma,
+AUB,abnormal uterine bleeding,https://obgyn.onlinelibrary.wiley.com/doi/10.1016/j.ijgo.2010.11.011
+AUB-A,abnormal uterine bleeding - adenomyosis,https://obgyn.onlinelibrary.wiley.com/doi/10.1016/j.ijgo.2010.11.011
+AUB-C,coagulopathy,https://obgyn.onlinelibrary.wiley.com/doi/10.1016/j.ijgo.2010.11.011
+AUB-E,abnormal uterine bleeding - endometrial,https://obgyn.onlinelibrary.wiley.com/doi/10.1016/j.ijgo.2010.11.011
+AUB-I,abnormal uterine bleeding - iatrogenic,https://obgyn.onlinelibrary.wiley.com/doi/10.1016/j.ijgo.2010.11.011
+AUB-L,abnormal uterine bleeding - leiomyoma,https://obgyn.onlinelibrary.wiley.com/doi/10.1016/j.ijgo.2010.11.011
+AUB-M,abnormal uterine bleeding - malignancy and hyperplasia,https://obgyn.onlinelibrary.wiley.com/doi/10.1016/j.ijgo.2010.11.011
+AUB-N,abnormal uterine bleeding - not yet classified,https://obgyn.onlinelibrary.wiley.com/doi/10.1016/j.ijgo.2010.11.011
+AUB-O,abnormal uterine bleeding - ovulatory dysfunction,https://obgyn.onlinelibrary.wiley.com/doi/10.1016/j.ijgo.2010.11.011
+AUB-P,abnormal uterine bleeding - polyp,https://obgyn.onlinelibrary.wiley.com/doi/10.1016/j.ijgo.2010.11.011
 AUC,area under the curve,
 AUD,alcohol use disorder,
 AUDIT,Alcohol Use Disorders Inventory Test,
